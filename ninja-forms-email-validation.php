@@ -3,7 +3,7 @@
 Plugin Name: Ninja Forms Email Validation
 Plugin URI: https://seatable.io
 Description: A plugin to validate email addresses using a remote service when a Ninja Form is submitted.
-Version: 1.0
+Version: 1.1
 Author: Christoph Dyllick-Brenzinger
 Author URI: https://seatable.io
 License: GPL2
